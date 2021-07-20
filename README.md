@@ -1,0 +1,5 @@
+- Hi, I’m @tanasovich
+- I’m interested in data science, machine learning and automatisation.
+- 🌱 I’m currently learning machine learning.
+- I’m looking to collaborate on open sourse non-profit projects.
+- How to reach me: valentine.tanasovich@gmail.com
