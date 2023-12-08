@@ -1,5 +1,5 @@
 - Hi, I’m @tanasovich
-- I’m interested in web development, automatisation and data science.
-- I’m currently learn `Spring` and `Django`.
+- I’m working in web and science projects.
+- I’m currently improve myself in `Python` and `C#`.
 - I’m looking to collaborate on open source non-profit projects.
 - How to reach me: valentine.tanasovich@gmail.com
